@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Jim Lau
 
-I like to:
+I like to: Party
 
-I'm learning:
+I'm learning: to swiggty swoon
 
 ```
 
